@@ -1,0 +1,10 @@
+body{
+    background: #fff;
+}
+*{
+    color: #1b1b1b;
+}
+
+#btnUpdate{
+    display: none;
+}
